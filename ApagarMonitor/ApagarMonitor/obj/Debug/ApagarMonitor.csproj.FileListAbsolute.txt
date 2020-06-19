@@ -1,0 +1,27 @@
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\bin\Debug\ApagarMonitor.exe.config
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\bin\Debug\ApagarMonitor.exe
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\bin\Debug\ApagarMonitor.pdb
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\obj\Debug\ApagarMonitor.csprojResolveAssemblyReference.cache
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\obj\Debug\ApagarMonitor.Form1.resources
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\obj\Debug\ApagarMonitor.Properties.Resources.resources
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\obj\Debug\ApagarMonitor.csproj.GenerateResource.Cache
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\obj\Debug\ApagarMonitor.exe
+C:\Users\fcis\AppData\Local\Temporary Projects\ApagarMonitor\obj\Debug\ApagarMonitor.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\bin\Debug\ApagarMonitor.exe.config
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\bin\Debug\ApagarMonitor.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\bin\Debug\ApagarMonitor.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.csprojResolveAssemblyReference.cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.Form1.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.Properties.Resources.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.csproj.GenerateResource.Cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\bin\Debug\ApagarMonitor.exe.config
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\bin\Debug\ApagarMonitor.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\bin\Debug\ApagarMonitor.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.csprojResolveAssemblyReference.cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.Form1.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.Properties.Resources.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.csproj.GenerateResource.Cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\ApagarMonitor_OK\ApagarMonitor\ApagarMonitor\obj\Debug\ApagarMonitor.pdb
