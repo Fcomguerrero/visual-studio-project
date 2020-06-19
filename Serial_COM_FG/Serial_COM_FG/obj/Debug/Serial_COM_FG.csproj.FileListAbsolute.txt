@@ -1,0 +1,39 @@
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.csprojResolveAssemblyReference.cache
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\serial_communication.serial_connection.resources
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.Properties.Resources.resources
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.csproj.GenerateResource.Cache
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe.config
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.pdb
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.exe
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.pdb
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe.manifest
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.application
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.exe.manifest
+G:\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.application
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe.config
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe.manifest
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.application
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.csprojResolveAssemblyReference.cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\serial_communication.serial_connection.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.Properties.Resources.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.csproj.GenerateResource.Cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.exe.manifest
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.application
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe.config
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe.manifest
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.application
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\bin\Debug\Serial_COM_FG.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.csprojResolveAssemblyReference.cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\serial_communication.serial_connection.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.Properties.Resources.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.csproj.GenerateResource.Cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.exe.manifest
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.application
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\SerialCOMFG\Serial_COM_FG\Serial_COM_FG\obj\Debug\Serial_COM_FG.pdb
