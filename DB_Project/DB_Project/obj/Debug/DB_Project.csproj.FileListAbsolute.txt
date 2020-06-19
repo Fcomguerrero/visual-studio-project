@@ -1,0 +1,14 @@
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\bin\Debug\DB_Project.exe.config
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\bin\Debug\DB_Project.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\bin\Debug\DB_Project.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.csprojResolveAssemblyReference.cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.Login.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.Properties.Resources.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.csproj.GenerateResource.Cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.Menu.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.Comandos.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.About.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.Ventas.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\DB_Project\DB_Project\obj\Debug\DB_Project.Diagram.resources
