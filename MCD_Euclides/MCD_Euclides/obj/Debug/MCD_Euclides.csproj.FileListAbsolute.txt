@@ -1,0 +1,9 @@
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\bin\Debug\MCD_Euclides.exe.config
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\bin\Debug\MCD_Euclides.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\bin\Debug\MCD_Euclides.pdb
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\obj\Debug\MCD_Euclides.csprojResolveAssemblyReference.cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\obj\Debug\MCD_Euclides.csproj.GenerateResource.Cache
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\obj\Debug\MCD_Euclides.exe
+C:\Users\fcis\Documents\Visual Studio 2017\Projects\MCD_Euclides\MCD_Euclides\obj\Debug\MCD_Euclides.pdb
