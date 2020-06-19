@@ -1,0 +1,9 @@
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\bin\Debug\admin_FcoGuerrero.exe.config
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\bin\Debug\admin_FcoGuerrero.exe
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\bin\Debug\admin_FcoGuerrero.pdb
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\obj\Debug\admin_FcoGuerrero.csprojResolveAssemblyReference.cache
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\obj\Debug\admin_FcoGuerrero.Form1.resources
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\obj\Debug\admin_FcoGuerrero.Properties.Resources.resources
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\obj\Debug\admin_FcoGuerrero.csproj.GenerateResource.Cache
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\obj\Debug\admin_FcoGuerrero.exe
+c:\users\fcis\documents\visual studio 2017\Projects\admin_FcoGuerrero\admin_FcoGuerrero\obj\Debug\admin_FcoGuerrero.pdb
